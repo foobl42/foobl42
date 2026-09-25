@@ -1,3 +1,3 @@
 {
-    "chat.disableAIFeatures": true
+    "$schema": "vscode://schemas/settings/user"
 }
